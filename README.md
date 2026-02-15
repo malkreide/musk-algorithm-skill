@@ -129,3 +129,7 @@ Verbesserungsvorschläge, Beispiele oder Fehlerberichte sind willkommen! Bitte e
 ---
 
 **Hinweis**: Dieser Skill ersetzt keine professionelle Beratung in rechtlichen, finanziellen oder sicherheitsrelevanten Fragen. Bei Unsicherheit konsultiere Fachpersonen.
+
+
+AI in Bildung | Öffentliche Verwaltung | Kommunikation & Strategie  
+[LinkedIn] (https://linkedin.com/in/hayaloezkan)
