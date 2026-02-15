@@ -129,3 +129,13 @@ Verbesserungsvorschläge, Beispiele oder Fehlerberichte sind willkommen! Bitte e
 ---
 
 **Hinweis**: Dieser Skill ersetzt keine professionelle Beratung in rechtlichen, finanziellen oder sicherheitsrelevanten Fragen. Bei Unsicherheit konsultiere Fachpersonen.
+
+---
+
+<div align="center">
+
+**Made with ❤️ in Zürich**
+
+[LinkedIn](https://www.linkedin.com/in/hayaloezkan/) • [Documentation](docs/) • [Contributing](CONTRIBUTING.md)
+
+</div>
