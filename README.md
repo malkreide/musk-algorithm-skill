@@ -112,7 +112,7 @@ Aufwand│  VERMEIDEN     │   MITNEHMEN    │  Aufwand
 
 ## Credits
 
-- **Entwickelt von**: Schulamt der Stadt Zürich, Bereich Marketing und Kommunikation
+- **Entwickelt von**: Hayal Oezkan
 - **Methodischer Ursprung**: Elon Musk's 5-Step Algorithm (SpaceX/Tesla)
 - **Adaptation**: Speziell angepasst für öffentliche Verwaltung und Bildung
 
